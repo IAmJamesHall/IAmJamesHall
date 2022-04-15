@@ -1,7 +1,9 @@
 # 👋 Hi, I’m @IAmJamesHall
-:computer: I’m interested in open source software (especially on Arch Linux & Raspberry Pi)
+:desktop_computer: I’m interested in open source software (especially on Arch Linux & Raspberry Pi)
 
-:books: I’m currently studying history & philosophy at Gutenberg College in Oregon, with the goal of learning to live a good life.
+:keyboard: My specialty is building websites using JS and Node.
+
+:books: I’m currently studying history & philosophy at Gutenberg College in Oregon, with the goal of learning to live a purposeful life.
 
 
 <!---
