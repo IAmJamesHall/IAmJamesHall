@@ -3,7 +3,7 @@
 
 :keyboard: My specialty is building websites using JS and Node.
 
-:books: I’m currently studying history & philosophy at Gutenberg College in Oregon, with the goal of learning to live a purposeful life.
+:books: I’m currently studying history & philosophy at a school in Oregon, with the goal of learning to live a purposeful life.
 
 
 <!---
